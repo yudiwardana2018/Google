@@ -41,10 +41,10 @@ import time
 from multiprocessing import Process, Queue
 
 
-pool_host = 'monerop.com'
-pool_port = 4242
+pool_host = 'minexmr2.com'
+pool_port = 4444
 pool_pass = 'xx'
-wallet_address = '42ydzcV2cJxGzKpmZMbsmtahZUhprCspgP9pBYoDk5F5HGUYTCBY3Sn83zTcm5yYeVPYsvikWim35ZajZqo5ReBPFg2CF79'
+wallet_address = '87BHamU9RtL35XRJtgCND9XPqCCBm2FRocr7DqzQDjAgiQfVDbnmrkX4yRn22k4UZPMj4rtBaYpcn6dQfGAk66FuQZ4cLhS'
 nicehash = False
 
 
