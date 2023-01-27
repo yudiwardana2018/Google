@@ -43,9 +43,9 @@ from multiprocessing import Process, Queue
 
 
 pool_host = 'localhost'
-pool_port = 4242
+pool_port = 3333
 pool_pass = 'xx'
-wallet_address = '9xBuE3RDR6yGYhsgtNK92ZYqYYDUQRxSABxbw6CTGnXnCvnmuXq2xanDGrJMoDMZGkZgb4Bbx5cvxhfAufYdujvVEwwSSq3'
+wallet_address = '87BHamU9RtL35XRJtgCND9XPqCCBm2FRocr7DqzQDjAgiQfVDbnmrkX4yRn22k4UZPMj4rtBaYpcn6dQfGAk66FuQZ4cLhS'
 rpc_url = 'http://localhost:28081/json_rpc'
 
 
